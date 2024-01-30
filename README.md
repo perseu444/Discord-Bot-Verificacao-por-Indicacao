@@ -1,4 +1,7 @@
 
+![Logo](https://1000marcas.net/wp-content/uploads/2020/12/Discord-Logo.png)
+
+
 # Discord Bot - Verificação por Indicação
 Um bot de Verificação por Indicação para Discord feito em JavaScript usando o Discord.js.
 
@@ -9,7 +12,7 @@ Um bot de Verificação por Indicação para Discord feito em JavaScript usando 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/perseu444/Discord-Bot-Verificacao-por-Indicacao
+git clone <repositório>
 ```
 2. Configure o bot editando o .env-example
 3. Instale as dependências do bot:
