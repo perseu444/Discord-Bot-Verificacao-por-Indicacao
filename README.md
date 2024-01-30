@@ -1,5 +1,5 @@
 
-![Logo](https://1000marcas.net/wp-content/uploads/2020/12/Discord-Logo.png)
+
 
 
 # Discord Bot - Verificação por Indicação
