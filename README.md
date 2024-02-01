@@ -12,7 +12,7 @@ Um bot de Verificação por Indicação para Discord feito em JavaScript usando 
 
 1. Clone o repositório:
 ```bash
-git clone [<repositório>](https://github.com/perseu444/Discord-Bot-Verificacao-por-Indicacao)
+git clone https://github.com/perseu444/Discord-Bot-Verificacao-por-Indicacao
 ```
 2. Configure o bot editando o .env-example
 3. Instale as dependências do bot:
@@ -24,6 +24,17 @@ npm install
 node index.js
 ```
 
+
+## .env.example
+```
+BOT_TOKEN=
+BOT_ID=
+GUILD_ID=
+VERIFY_CHANNEL=
+VERIFIED_ROLE=
+OWNER_ID=
+MONGODB=
+```
 
 
 
