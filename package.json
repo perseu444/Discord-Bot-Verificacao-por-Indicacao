@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot-verificacao",
+  "version": "1.0.0",
+  "description": "Bot de verificação por indiciação",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "/help"
+  },
+  "keywords": [
+    "discord",
+    "verificação"
+  ],
+  "author": "persheusz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.1.1"
+  }
+}
